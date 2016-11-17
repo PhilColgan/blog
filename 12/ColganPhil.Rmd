@@ -1,0 +1,14 @@
+---
+title: "Reproducibility in practice"
+author: "Phil Colgan"
+topic: "Last Blog"
+layout: post
+root: ../../../
+---
+I think Nature publishing this sort of content its a great step forward towards having more effective collabortions and reproducible research. Publishing these notebooks along with papers will also help teach people how to put together analysis pipelines. I think we just have to wait for people to warm up to them and keep providing examples of how beneficial they can be before interactive notebooks will be accepted, just like all new things.
+
+
+
+Read Helen Shen's article ["Interactive notebooks: Sharing the code"](http://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261) and write a blog post on your thoughts. What is the significance of a journal like *Nature* publishing about the use of dynamic documents such as interactive notebooks? What do you think it will take for reproducibility and dynamic documents to go mainstream?
+
+
